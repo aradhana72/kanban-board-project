@@ -16,6 +16,8 @@ This Project is a Kanban Board in ReactJS. Given below are the features of the a
 
 ![plot](./src/Assets/img1.jpg)
 
+![plot](./src/Assets/img2.jpg)
+
 ## Prerequisites
 
 ### Install Node JS
