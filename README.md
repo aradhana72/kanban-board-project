@@ -5,7 +5,7 @@
 This Project is a Kanban Board in ReactJS. Given below are the features of the application:-
 
 1. Addition of cards under the boards.
-2. Each card has several features like title, description, date, label(with chosen color code), task(marking undone or finnished,deletion).
+2. Each card has several features like title, description, date, label(with chosen color code), task(marking undone or finished,deletion).
 3. The cards can be updated or deleted anytime as required.
 4. Each card can be dragged and dropped under any board(characteristic feature of kanban).
 5. Under each board, there is a count of task cards.
